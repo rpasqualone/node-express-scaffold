@@ -1,7 +1,6 @@
 {
   "name": "node-todo-api",
   "version": "1.0.0",
-  "description": "",
   "main": "lib/index.js",
   "dependencies": {
     "body-parser": "^1.15.2",
@@ -26,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/rpasqualone/node-todo-api/issues"
   },
-  "homepage": "https://github.com/rpasqualone/node-todo-api#readme"
+  "homepage": "https://github.com/rpasqualone/node-todo-api#readme",
+  "description": ""
 }
